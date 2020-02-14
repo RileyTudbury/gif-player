@@ -1,0 +1,9 @@
+body{
+  height: 100vh;
+  background-color: black;
+}
+
+#gif-display img{
+  max-height: 40vh;
+  width: auto;
+}
